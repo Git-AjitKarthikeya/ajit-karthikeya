@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:ajitkarthikeyaballa@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/ajitkarthikeyaballa">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/ajit-karthikeya">🐙 GitHub</a>
+  <a href="https://github.com/Git-AjitKarthikeya">🐙 GitHub</a>
 </p>
 
 ---
@@ -48,48 +48,48 @@ SLA Management · Incident Management · Root Cause Analysis · Escalation Handl
 
 ## Featured Projects
 
+### 🔐 Azure VM & Network Deployment Lab
+> Azure VNet · NSGs · Windows Server · PowerShell · ARM Templates
+
+Enterprise-grade Azure network lab: custom VNet with defined subnets, scoped NSG rules, RDP validation, and diagnostic log analysis.
+
+[View Repository →](https://github.com/Git-AjitKarthikeya/azure-network-lab)
+
+---
+
 ### 🏥 Total Absence Management Portal
 > Azure App Services · Function Apps · Azure SQL · Azure DevOps CI/CD · RBAC
 
-A production-style web portal for absence tracking, deployed to Azure via a 3-stage CI/CD pipeline (Dev → Staging → Prod). Event-driven processing via Function Apps. Network segmentation and least-privilege access enforced through VNets and Azure AD RBAC.
+A production-style web portal for absence tracking, deployed to Azure via a 3-stage CI/CD pipeline (Dev → Staging → Prod).
 
-[View Repository →](https://github.com/ajit-karthikeya/total-absence-management-portal)
+[View Repository →](https://github.com/Git-AjitKarthikeya/total-absence-management-portal)
 
 ---
 
 ### 📊 SLA Compliance Dashboard
-> Python · Azure SQL · Power BI / Plotly · ServiceNow API
+> Python · Azure SQL · Plotly · ServiceNow API
 
-Automated dashboard that ingests ticket data from ServiceNow, computes SLA breach risk in real time, and surfaces trend insights. Built to replicate the kind of operational intelligence tooling used in enterprise support environments.
+Automated dashboard that ingests ticket data from ServiceNow, computes SLA breach risk in real time, and surfaces trend insights.
 
-[View Repository →](https://github.com/ajit-karthikeya/sla-compliance-dashboard)
-
----
-
-### 🔐 Azure VM & Network Deployment Lab
-> Azure VNet · NSGs · Windows Server · PowerShell · ARM Templates
-
-Enterprise-grade Azure network lab: custom VNet with defined subnets, scoped NSG rules, RDP validation, and diagnostic log analysis. Demonstrates infrastructure provisioning and network security hygiene from scratch.
-
-[View Repository →](https://github.com/ajit-karthikeya/azure-network-lab)
+[View Repository →](https://github.com/Git-AjitKarthikeya/sla-compliance-dashboard)
 
 ---
 
 ### ⚙️ ServiceNow Ticket Automation Engine
 > Python · ServiceNow REST API · Azure Function Apps · PowerShell
 
-Automated ticket triage and routing engine using the ServiceNow REST API. Ingests incoming incidents, classifies by keyword and priority, auto-assigns resolver groups, and logs resolution metadata. Reduces manual triage overhead by design.
+Automated ticket triage and routing engine using the ServiceNow REST API. Classifies incidents, auto-assigns resolver groups, and logs resolution metadata.
 
-[View Repository →](https://github.com/ajit-karthikeya/servicenow-automation-engine)
+[View Repository →](https://github.com/Git-AjitKarthikeya/servicenow-automation-engine)
 
 ---
 
 ### 🏗️ Azure IaC Deployment Toolkit
 > Terraform · ARM Templates · Azure CLI · PowerShell · GitHub Actions
 
-Reusable Infrastructure as Code toolkit for provisioning standard Azure environments: VMs, VNets, NSGs, Storage Accounts, App Services. Includes parameterized ARM Templates, Terraform modules, and a GitHub Actions pipeline for automated deployment.
+Reusable Infrastructure as Code toolkit for provisioning standard Azure environments.
 
-[View Repository →](https://github.com/ajit-karthikeya/azure-iac-toolkit)
+[View Repository →](https://github.com/Git-AjitKarthikeya/azure-iac-toolkit)
 
 ---
 
@@ -114,7 +114,7 @@ Reusable Infrastructure as Code toolkit for provisioning standard Azure environm
 
 ## Let's Connect
 
-I'm actively looking for roles in **Cloud Operations**, **Azure DevOps**, or **Support Engineering** where I can apply both my operational background and cloud automation skills.
+I'm actively looking for roles in **Cloud Operations**, **Azure DevOps**, or **Support Engineering**.
 
-📧 ajitkarthikeyaballa@gmail.com  
+📧 ajitkarthikeyaballa@gmail.com
 💼 [linkedin.com/in/ajitkarthikeyaballa](https://linkedin.com/in/ajitkarthikeyaballa)
